@@ -15,9 +15,14 @@ This repository contains 8 programs demonstrating structured programming concept
 **Category:** 02_input_process_output
 **Source:** Deitel & Deitel, Chapter 2, Exercise 2.16 (Comparing Integers)
 **What the program does:** Asks the user for two integers and compares them to find sum ,product, quocient, difference and remainder.
-**Concepts used:** `scanf`, `printf`, variables, `if`, `else if`, relational operators.
+**Concepts used:** `scanf`, `printf`, variables.
 **How it works:** Reads two integers a and b. 
-**Example run:**Enter two integers: 7 7
+**Example run:**Enter two integers: 2 and 3
+sum = 5
+product = 6
+difference = 1
+quocient = 1
+remainder = 1
 ### Exercise 3 - Decisions
 **Category:** 03_decisions
 **Source:** Deitel & Deitel, Chapter 2, Exercise 2.22 (Even or Odd)
@@ -27,7 +32,7 @@ This repository contains 8 programs demonstrating structured programming concept
 **Example run:**Enter an integer: 10
 10 is even.
 Enter an integer: 7
-7 is odd.javascript
+7 is odd.
 ### Exercise 4 - Basic Loop
 **Category:** 04_basic_loop
 **Source:** Deitel & Deitel, Chapter 3, Exercise 3.2 (Counter-controlled repetition)
