@@ -7,8 +7,8 @@ This repository contains 8 programs demonstrating structured programming concept
 ### Exercise 1 - Basic Output
 **Category:** 01_basic_output
 **Source:** Deitel & Deitel, Chapter 2, Exercise 2.3
-**What the program does:** The program prints a simple this is a c program message and a statement on separate lines on the screen.
-**Concepts used:** `printf` function, `main` function, newline character `\n`.
+**What the program does:** The program prints a simple 'this is a c program' on the same line, on different lines and with tabs
+**Concepts used:** `printf` function, `main` function, newline character `\n` and tabs`\t`.
 **How it works:** The program calls 'printf' four times. Each following the instructions given. Execution ends.
 **Example run:**This is a C program.
 ### Exercise 2 - Input, Process, Output
