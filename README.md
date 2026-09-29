@@ -14,11 +14,10 @@ This repository contains 8 programs demonstrating structured programming concept
 ### Exercise 2 - Input, Process, Output
 **Category:** 02_input_process_output
 **Source:** Deitel & Deitel, Chapter 2, Exercise 2.16 (Comparing Integers)
-**What the program does:** Asks the user for two integers and compares them to find which is larger or if they are equal.
+**What the program does:** Asks the user for two integers and compares them to find sum ,product, quocient, difference and remainder.
 **Concepts used:** `scanf`, `printf`, variables, `if`, `else if`, relational operators.
-**How it works:** Reads two integers a and b. If a > b prints a is larger. If b > a prints b is larger. Else prints they are equal.
+**How it works:** Reads two integers a and b. 
 **Example run:**Enter two integers: 7 7
-These numbers are equal.
 ### Exercise 3 - Decisions
 **Category:** 03_decisions
 **Source:** Deitel & Deitel, Chapter 2, Exercise 2.22 (Even or Odd)
